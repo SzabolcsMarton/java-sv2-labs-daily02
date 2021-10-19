@@ -9,7 +9,7 @@ public class Rectangle {
         this.sideB = sideB;
     }
 
-    public double Calculate(){
+    public double calculateArea(){
         return sideA * sideB;
     }
 }
